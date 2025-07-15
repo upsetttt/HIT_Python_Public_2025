@@ -24,25 +24,25 @@ Python là ngôn ngữ thông dịch, vì nó không cần biên dịch toàn b�
 
 Bài 2: Tìm hiểu trước kiến thức buổi 2
 1. Các kiểu dữ liệu trong Python
-Kiểu dữ liệu	Mô tả	Ví dụ
-int	Số nguyên	5, -10
-float	Số thực (dấu phẩy động)	3.14, -2.7
-str	Chuỗi ký tự	"Hello", 'Python'
-bool	Giá trị đúng/sai	True, False
-list	Danh sách các phần tử	[1, 2, 3], ['a', 'b']
-tuple	Bộ giá trị không thay đổi	(1, 2), ('x', 'y')
-dict	Từ điển (key-value)	{'name': 'Alice', 'age': 25}
-set	Tập hợp không trùng lặp	{1, 2, 3}
+Kiểu dữ liệu	       Mô tả	                    Ví dụ
+int             	Số nguyên	                   5, -10
+float	            Số thực (dấu phẩy động)	      3.14, -2.7
+str	                Chuỗi ký tự	               "Hello", 'Python'
+bool	            Giá trị đúng/sai	        True, False
+list	            Danh sách các phần tử	    [1, 2, 3], ['a', 'b']
+tuple           	Bộ giá trị không thay đổi	(1, 2), ('x', 'y')
+dict	            Từ điển(key-value)	        {'name': 'Alice', 'age': 25}
+set	                Tập hợp không trùng lặp	    {1, 2, 3}
 
 2. Các toán tử trong Python
 ✅ Toán tử số học:
 Toán tử	Ý nghĩa	Ví dụ
 +	Cộng	3 + 2 → 5
--	Trừ	5 - 3 → 2
+-	Trừ    	5 - 3 → 2
 *	Nhân	4 * 2 → 8
 /	Chia thực	5 / 2 → 2.5
-//	Chia lấy nguyên	5 // 2 → 2
-%	Chia lấy dư	5 % 2 → 1
+//	Chia lấy nguyên  5 // 2 → 2
+%	Chia lấy dư	  5 % 2 → 1
 **	Lũy thừa	2 ** 3 → 8
 
 ✅ Toán tử so sánh:
@@ -55,10 +55,10 @@ Toán tử	Ý nghĩa
 <=	Nhỏ hơn hoặc bằng
 
 ✅ Toán tử logic:
-Toán tử	Ý nghĩa	Ví dụ
-and	Và	True and False → False
-or	Hoặc	True or False → True
-not	Phủ định	not True → False
+Toán tử         	Ý nghĩa	            Ví dụ
+and               	Và	        True and False → False
+or	                Hoặc	    True or False → True
+not	                Phủ định	not True → False
 
 3. Mệnh đề điều kiện và vòng lặp
 ✅ Mệnh đề điều kiện (if, elif, else)
