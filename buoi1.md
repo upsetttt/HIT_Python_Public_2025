@@ -60,7 +60,9 @@ and               	Và	        True and False → False
 or	                Hoặc	    True or False → True
 not	                Phủ định	not True → False
 
-3. Mệnh đề điều kiện và vòng lặp
+<div class="code-block">
+  <button class="copy-button" onclick="copyCode(this)">Sao chép</button>
+  <pre>3. Mệnh đề điều kiện và vòng lặp
 ✅ Mệnh đề điều kiện (if, elif, else)
 python
 Copy
@@ -85,7 +87,9 @@ Edit
 i = 0
 while i < 5:
     print(i)
-    i += 1
+    i += 1</pre>
+</div>
+
 4. Kiểu dữ liệu True, False (kiểu bool)
 True và False là 2 giá trị của kiểu dữ liệu boolean
 
