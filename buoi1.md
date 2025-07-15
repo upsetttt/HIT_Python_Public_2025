@@ -61,7 +61,7 @@ or	                Hoặc	    True or False → True
 not	                Phủ định	not True → False
 
 <div class="code-block">
-  <button class="copy-button" onclick="copyCode(this)">Sao chép</button>
+  <button class="copy-button" onclick="copyCode(this)"></button>
   <pre>3. Mệnh đề điều kiện và vòng lặp
 ✅ Mệnh đề điều kiện (if, elif, else)
 python
