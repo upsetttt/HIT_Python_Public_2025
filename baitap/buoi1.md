@@ -12,9 +12,7 @@ Python dịch sang bytecode (trung gian, không phải mã máy)
 Trình thông dịch Python (PVM) thực thi bytecode
 
 🔍 Ví dụ:
-python
-Copy
-Edit
+python: 
 print("Hello, world!")
 Lệnh trên không được biên dịch thành mã máy ngay mà được chạy trực tiếp bởi trình thông dịch.
 
@@ -64,9 +62,7 @@ not	                Phủ định	not True → False
   <button class="copy-button" onclick="copyCode(this)"></button>
   <pre>3. Mệnh đề điều kiện và vòng lặp
 ✅ Mệnh đề điều kiện (if, elif, else)
-python
-Copy
-Edit
+pyth10 :
 a = 10
 if a > 0:
     print("Số dương")
@@ -75,15 +71,11 @@ elif a == 0:
 else:
     print("Số âm")
 ✅ Vòng lặp for
-python
-Copy
-Edit
+python:
 for i in range(5):
     print(i)
 ✅ Vòng lặp while
-python
-Copy
-Edit
+python:
 i = 0
 while i < 5:
     print(i)
@@ -95,9 +87,7 @@ True và False là 2 giá trị của kiểu dữ liệu boolean
 
 Thường dùng trong điều kiện, logic:
 
-python
-Copy
-Edit
+python: 
 a = 5
 b = 3
 print(a > b)  # True
